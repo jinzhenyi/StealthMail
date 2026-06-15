@@ -1,2 +1,3 @@
 # StealthMail
-![Test Coverage](https://img.shields.io/badge/coverage-0%25-brightgreen)
+![Status: Experimental](https://img.shields.io/badge/Status-Experimental-red)
+![Test Coverage: None](https://img.shields.io/badge/Tests-0%25-orange)
