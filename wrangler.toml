@@ -1,0 +1,5 @@
+# wrangler.toml - StealthMail 匿名邮件转发 Worker
+
+name = "stealthmail"
+main = "index.js"          # 根据您实际的脚本路径修改
+compatibility_date = "2025-05-20"
